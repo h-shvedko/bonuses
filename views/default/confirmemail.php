@@ -1,0 +1,1 @@
+<h1 class="h1-office"><?=Yii::t('app', 'Добро пожаловать')?>, <?=$_user['username']?></h1>
